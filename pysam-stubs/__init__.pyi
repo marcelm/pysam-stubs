@@ -1,3 +1,5 @@
+from typing import List
+
 from pysam.libchtslib import *
 from pysam.libcsamtools import *
 from pysam.libcbcftools import *
