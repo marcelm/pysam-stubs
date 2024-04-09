@@ -1,4 +1,10 @@
-# pysam-stubs
+# pysam-stubs (deprecated)
+
+**Do not use this as type hints have been merged into pysam proper**
+
+See https://github.com/pysam-developers/pysam/pull/1008
+
+---
 
 Type annotations for [pysam](https://pysam.readthedocs.io/).
 
